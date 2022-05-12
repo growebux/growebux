@@ -1,7 +1,7 @@
 Hi 👋 My name is Rafa
 =====================
 
-Full Stack Engineer
+Full Stack UI/UX Engineer
 -------------------
 
 * 🌍  I'm based in Vancouver, Canada
