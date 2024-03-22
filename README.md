@@ -9,8 +9,6 @@ Behance: https://www.behance.net/rafaelsilvasnt
 
 
 
-Behance: 
-
 My ethos - Quality over convenience, best practices, core business rules, product market fit and data-driven decision making is the way we succeed.
 
 ## Full Stack UI/UX Engineer & Design System Architect
