@@ -53,7 +53,7 @@ Leveraging technical skillsets with strategic design, business insights and tech
 
 - **Strategic Achievements**:
   - As a UI/UX Engineer at Gradus and an Innovative Mentor at FasterCapital, I leveraged data analytics and strategic communication to support over 200 startups, driving significant improvements in their business models, marketing strategies, and customer experiences.
-  - Led digital strategy at Poder360, where my expertise in data analysis and content creation contributed to exponential growth, achieving over 1 million YouTube subscribers.
+  - Led digital strategy at Poder360(https://www.youtube.com/c/Poder360), where my expertise in data analysis and content creation contributed to exponential growth, achieving over 1 million YouTube subscribers.
 
 ### Certifications
 
