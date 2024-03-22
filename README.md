@@ -3,7 +3,15 @@ Hi 👋, I'm Rafa
 
 Looking for a startup mentor to check your business plan and product market fit, check it out > https://fastercapital.com/mentor/rafael-silva-lopes.html
 
-My ethos - Quality over convenience. Best practices, core business rules, product market fit and data-driven decision making is the way we succeed.
+Linkedin: https://www.linkedin.com/in/rafael-lopes-6a799184/
+
+Behance: https://www.behance.net/rafaelsilvasnt
+
+
+
+Behance: 
+
+My ethos - Quality over convenience, best practices, core business rules, product market fit and data-driven decision making is the way we succeed.
 
 ## Full Stack UI/UX Engineer & Design System Architect
 
