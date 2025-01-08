@@ -13,7 +13,7 @@ Behance: https://www.behance.net/rafaelsilvasnt
 
 ---
 
-## Full Stack UI/UX Engineer & Design System Architect
+## Full Stack Engineer & Design System Architect && DevOps
 
 Leveraging technical skillsets with strategic design, business insights and technology, I deliver comprehensive solutions that enhance user experience and application scalability to help the business succeed.
 
